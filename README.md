@@ -1,2 +1,2 @@
 # BobHamor.com
-Bob Hamor's Memorial Web Site
+Bob Hamor's memorial website.
